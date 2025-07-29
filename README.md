@@ -27,3 +27,7 @@ A Discord bot for 7 Days to Die servers. Features:
 - `/restart` – Restart server  
 
 Commands are restricted by channel & role.
+
+## License
+This bot is provided by CALLUMGAMES for personal use with 7 Days to Die servers. Modifying, redistributing, or using the code without permission is strictly prohibited. See [LICENSE](./LICENSE) for full details.
+
