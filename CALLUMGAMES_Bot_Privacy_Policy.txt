@@ -1,0 +1,31 @@
+CALLUMGAMES Discord Bot – Privacy Policy
+Effective Date: July 30, 2025
+Last Updated: July 30, 2025
+
+1. Data Collection
+The CALLUMGAMES bot only collects the minimum necessary data to function properly. This may include:
+- Server IDs, channel IDs, user IDs
+- Message content or metadata when required for bot commands or logs
+- Configuration data (e.g., command settings, preferences)
+
+2. Data Usage
+Data is only used for:
+- Executing bot features (e.g., moderation, automation)
+- Providing persistent settings or server configurations
+- Improving performance or debugging issues
+
+3. Data Sharing
+No data collected by the bot is ever sold or shared with third parties.
+
+4. Data Storage and Security
+All data is stored securely. Reasonable technical and organizational measures are taken to protect against unauthorized access or loss.
+
+5. Data Removal
+Server owners or authorized users may request deletion of all stored data related to their server by contacting CALLUMGAMES via Discord.
+
+6. Changes to This Policy
+We may update this privacy policy at any time. Major changes will be announced on our Discord.
+
+Contact:
+Discord: https://discord.gg/wJEGruC7b4
+GitHub: https://github.com/CALLUMGAMES
