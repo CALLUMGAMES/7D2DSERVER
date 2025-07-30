@@ -1,0 +1,32 @@
+CALLUMGAMES Discord Bot – Terms of Service
+Effective Date: July 30, 2025
+Last Updated: July 30, 2025
+
+1. Acceptance of Terms
+By using the CALLUMGAMES Discord bot (the "Bot"), you agree to these Terms of Service. If you do not agree, do not invite or interact with the Bot.
+
+2. Usage
+You may use the Bot for personal, server, or community use, so long as that use does not violate Discord's Terms of Service or Community Guidelines.
+
+You may not:
+- Abuse, exploit, or spam the bot
+- Reverse-engineer or attempt to gain unauthorized access to the bot’s source code
+- Use the bot for commercial purposes without written permission
+
+3. Data and Privacy
+The Bot may store minimal data such as server IDs, message content (for logging or automation), or user IDs, only if necessary for functionality (e.g., moderation, configuration).
+
+We do not sell, share, or misuse your data. You can request deletion of stored server-specific data at any time by contacting us via Discord.
+
+4. Liability
+The Bot is provided “as-is”. CALLUMGAMES is not responsible for any direct or indirect damage caused by the use (or misuse) of the bot.
+
+5. Termination
+We reserve the right to ban or restrict access to the Bot for any user or server at any time, especially in cases of abuse, ToS violations, or security risks.
+
+6. Changes
+These terms may change at any time. Major changes will be announced via Discord.
+
+Contact:
+Discord: https://discord.gg/wJEGruC7b4
+GitHub: https://github.com/CALLUMGAMES
